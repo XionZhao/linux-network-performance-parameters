@@ -26,9 +26,7 @@ This brief tutorial shows **where some of the most used and quoted sysctl/networ
 
 > #### Feel free to send corrections and suggestions! :)
 
-# Linux network queues overview
-
-![linux network queues](/img/linux_network_flow.png "A graphic representation of linux/kernel network main buffer / queues")
+# Linux network packets flow to memory overview
 
 <img width="563" height="339" alt="linux network flow" src="https://github.com/user-attachments/assets/59e65d53-2175-40c9-8805-44ccd3b3daed" />
 
