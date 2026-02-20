@@ -30,6 +30,9 @@ This brief tutorial shows **where some of the most used and quoted sysctl/networ
 
 ![linux network queues](/img/linux_network_flow.png "A graphic representation of linux/kernel network main buffer / queues")
 
+<img width="563" height="339" alt="linux network flow" src="https://github.com/user-attachments/assets/59e65d53-2175-40c9-8805-44ccd3b3daed" />
+
+
 # Fitting the sysctl variables into the Linux network flow
 
 ## Ingress - they're coming
